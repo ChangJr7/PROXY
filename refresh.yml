@@ -1,8 +1,8 @@
 name: Refresh
 
 on:
-  workflow_dispatch:
-    branches: [ main ]
+  schedule:
+    - cron:  '0 1/2 * * * *'
 
 permissions:
   contents: write
