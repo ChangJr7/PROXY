@@ -24,8 +24,7 @@ jobs:
         wget 'https://raw.githubusercontent.com/saschazesiger/Proxy-Grabber-and-Checker/main/Sources.txt'
         wget 'https://raw.githubusercontent.com/saschazesiger/Proxy-Grabber-and-Checker/main/chromedriver'
         wget 'https://raw.githubusercontent.com/saschazesiger/Proxy-Grabber-and-Checker/main/refresh.py'
-        wget 'https://github.com/saschazesiger/Proxy-Grabber-and-Checker/blob/main/requirements.txt'
-        pip install -r requirements.txt
+        pip install requests beautifulsoup4 selenium
     - name: Run
       run: |
         mkdir output/
