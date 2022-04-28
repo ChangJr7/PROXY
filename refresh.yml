@@ -4,11 +4,6 @@ on:
   workflow_dispatch:
   schedule:
     - cron: "50 * * * *" 
-  push:
-    branches: [master]
-
-permissions:
-  contents: write
 
 jobs:
   build:
