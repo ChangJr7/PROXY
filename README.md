@@ -18,7 +18,44 @@ Unique Proxies: ```#var-unique```\
 ## 🏠 Providers
 | Website  | Number of Proxies fetched |
 | ------------- |:-------------:|
-#var-list
+|advanced.name|197
+api.proxyscrape.com|1076
+free-proxy-list.com|100
+free-proxy-list.net|1200
+freeproxy.world|550
+github-RX4096|434
+github-ShiftyTR|984
+github-TheSpeedX|5273
+github-Volodichev|25756
+github-almroot|6
+github-clarketm|400
+github-hendrikbgr|88
+github-hookzof|95
+github-jetkai|2404
+github-manuGMG|312
+github-mertguvencli|202
+github-mmpx12|3476
+github-monosans|648
+github-roosterkid|1416
+github-ryanhaticus|10
+github-sunny9577|841
+hidemy.name|640
+list.proxylistplus.com|298
+netzwelt.de|60
+openproxy.space|0
+premiumproxy.net|523
+premproxy.com|44
+proxy-daily.com|1153
+proxy-list.download|2096
+proxy-list.org|140
+proxydb.net|60
+proxydocker.com|20
+proxynova.com|35
+proxyrack.com|0
+proxyscan.io|984
+proxyservers.pro|20
+us-proxy.org|400
+
 
 ## 🔗 Links
 
