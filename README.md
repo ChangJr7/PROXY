@@ -11,51 +11,14 @@
 ## ⤴️ Stats
 
 Update Frequency: ```Every Hour```\
-Number of fetched Proxies: ```51652```\
-Unique Proxies: ```33566```\
+Number of fetched Proxies: ```#var-fetched```\
+Unique Proxies: ```#var-unique```\
 **Working:** ```#var-working```
 
 ## 🏠 Providers
 | Website  | Number of Proxies fetched |
 | ------------- |:-------------:|
-|advanced.name|399
-api.proxyscrape.com|924
-free-proxy-list.com|100
-free-proxy-list.net|1200
-freeproxy.world|550
-github-RX4096|331
-github-ShiftyTR|958
-github-TheSpeedX|5245
-github-Volodichev|25757
-github-almroot|2
-github-clarketm|400
-github-hendrikbgr|88
-github-hookzof|112
-github-jetkai|2263
-github-manuGMG|323
-github-mertguvencli|175
-github-mmpx12|3449
-github-monosans|739
-github-roosterkid|1290
-github-ryanhaticus|10
-github-sunny9577|841
-hidemy.name|640
-list.proxylistplus.com|298
-netzwelt.de|60
-openproxy.space|0
-premiumproxy.net|516
-premproxy.com|62
-proxy-daily.com|1153
-proxy-list.download|2095
-proxy-list.org|140
-proxydb.net|60
-proxydocker.com|20
-proxynova.com|35
-proxyrack.com|0
-proxyscan.io|958
-proxyservers.pro|20
-us-proxy.org|400
-
+#var-list
 
 ## 🔗 Links
 
