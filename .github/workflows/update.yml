@@ -22,7 +22,6 @@ jobs:
           pip install requests beautifulsoup4 selenium
       - name: Run
         run: |
-          mkdir output/
           chmod 777 chromedriver
           python refresh.py
       - name: Commit
