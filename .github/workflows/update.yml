@@ -34,5 +34,5 @@ jobs:
           git remote set-url origin 'https://x-access-token:${{ secrets.GITHUB_TOKEN }}@github.com/saschazesiger/Free-Proxies.git'
           git add 'proxies/'
           git add 'README.md'
-          git commit -am "Refreshed List"
+          git commit -am "Updated Proxies"
           git push
