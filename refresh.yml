@@ -2,7 +2,7 @@ name: Refresh
 
 on:
   schedule:
-    - cron: '30 */1 * * *'
+    - cron: '40 * * * *'
 
 permissions:
   contents: write
