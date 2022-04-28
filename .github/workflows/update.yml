@@ -2,8 +2,7 @@ name: Refresh
 
 on:
   schedule:
-    - cron: '55 * * * *'
-  workflow_dispatch:
+    - cron: '5 * * * *'
 
 jobs:
   build:
