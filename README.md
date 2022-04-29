@@ -14,9 +14,9 @@ Update Frequency: ```Every 30 minutes```
 
 Type | Number | Link | File
 --- | --- | --- | ---
-All available proxies | ```60090``` | [GitHub](https://github.com/saschazesiger/Free-Proxies/blob/master/proxies/raw.txt) | [RAW](https://raw.githubusercontent.com/saschazesiger/Free-Proxies/master/proxies/raw.txt)
-Unique Proxies | ```35970``` | [GitHub](https://github.com/saschazesiger/Free-Proxies/blob/master/proxies/all.txt) | [RAW](https://raw.githubusercontent.com/saschazesiger/Free-Proxies/master/proxies/all.txt)
-New* | ```24404``` | [GitHub](https://github.com/saschazesiger/Free-Proxies/blob/master/proxies/new.txt) | [RAW](https://raw.githubusercontent.com/saschazesiger/Free-Proxies/master/proxies/new.txt) 
+All available proxies | ```60089``` | [GitHub](https://github.com/saschazesiger/Free-Proxies/blob/master/proxies/raw.txt) | [RAW](https://raw.githubusercontent.com/saschazesiger/Free-Proxies/master/proxies/raw.txt)
+Unique Proxies | ```35905``` | [GitHub](https://github.com/saschazesiger/Free-Proxies/blob/master/proxies/all.txt) | [RAW](https://raw.githubusercontent.com/saschazesiger/Free-Proxies/master/proxies/all.txt)
+New* | ```35805``` | [GitHub](https://github.com/saschazesiger/Free-Proxies/blob/master/proxies/new.txt) | [RAW](https://raw.githubusercontent.com/saschazesiger/Free-Proxies/master/proxies/new.txt) 
 Premium** | ```0``` | [GitHub](https://github.com/saschazesiger/Free-Proxies/blob/master/proxies/premium.txt) | [RAW](https://raw.githubusercontent.com/saschazesiger/Free-Proxies/master/proxies/premium.txt)
 Excluded*** | ```0``` | [GitHub](https://github.com/saschazesiger/Free-Proxies/blob/master/proxies/insecure.csv) | [RAW](https://raw.githubusercontent.com/saschazesiger/Free-Proxies/master/proxies/insecure.csv)
 **Working (CSV)** | ```0``` | [GitHub](https://github.com/saschazesiger/Free-Proxies/blob/master/proxies/working.csv) | [RAW](https://raw.githubusercontent.com/saschazesiger/Free-Proxies/master/proxies/working.csv)
@@ -45,22 +45,22 @@ Proxies from various sources are regularly crawled and validated in this reposit
 | Website  | Number of Proxies fetched |
 | ------------- |:-------------:|
 |advanced.name|180
-api.proxyscrape.com|1396
-apiproxyfree.com|503
+api.proxyscrape.com|1387
+apiproxyfree.com|505
 cybersyndrome.net|107
 free-proxy-list.com|250
 free-proxy-list.net|1200
 freeproxy.world|1300
 github-RX4096|165
-github-ShiftyTR|1097
+github-ShiftyTR|1102
 github-TheSpeedX|5604
 github-Volodichev|26518
 github-almroot|9
 github-clarketm|400
 github-hendrikbgr|88
-github-hookzof|138
+github-hookzof|148
 github-jetkai|3019
-github-manuGMG|365
+github-manuGMG|357
 github-mertguvencli|105
 github-mmpx12|3574
 github-monosans|974
@@ -71,7 +71,7 @@ hidemy.name|1600
 list.proxylistplus.com|298
 netzwelt.de|60
 openproxy.space|3125
-premiumproxy.net|532
+premiumproxy.net|530
 premproxy.com|33
 proxy-daily.com|1153
 proxy-list.download|2096
@@ -79,11 +79,11 @@ proxy-list.org|140
 proxydb.net|60
 proxydocker.com|20
 proxynova.com|35
-proxyscan.io|1102
+proxyscan.io|1103
 proxyservers.pro|20
 us-proxy.org|400
 
 
 ## 🔗 Links
 
-The project gets updated using [this repository](https://github.com/saschazesiger/Proxy-Grabber-and-Checker) and checks proxies using [this](https://github.com/saschazesiger/Proxy-Test-Website) light website so that the proxies aren't unnecessarily overloaded.
+The project gets updated using [this repository](https://github.com/saschazesiger/Proxy-Grabber-and-Checker) and checks proxies with [this](https://github.com/saschazesiger/Proxy-Test-Website).
