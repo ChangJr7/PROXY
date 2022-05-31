@@ -1,4 +1,13 @@
-# 🎉 Free Proxy List 
+# 🎉 Free Proxy List (DEPRECATED)
+Free proxies are often full of maleware. Therefore, I decided to archive this repository for the time being until an efficient method to detect such malicious proxies has been developed. The repository already detects some proxies that modify the source code of web pages, but dealing with such proxies is still very unsafe. 
+
+Until more proxies are available here, I recommend webshare.io for a list of proxies and proxiesapi.com if a direct request can be made. 
+
+Both services are free to very cheap and offer a much more secure and faster platform than free proxies. (I was not paid to say that)
+
+
+-------------------------------------------------------------
+-------------------------------------------------------------
 
 ## 🚀 Contains Proxies of over 50 Providers and is updated regularely
 
