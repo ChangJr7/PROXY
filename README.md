@@ -21,15 +21,15 @@ Update Frequency: ```Every 30 minutes```
 
 Type | Number | Link | File
 --- | --- | --- | ---
-All available proxies | ```30885``` | [GitHub](https://github.com/saschazesiger/Free-Proxies/blob/master/proxies/raw.txt) | [RAW](https://raw.githubusercontent.com/saschazesiger/Free-Proxies/master/proxies/raw.txt)
-Unique Proxies | ```12528``` | [GitHub](https://github.com/saschazesiger/Free-Proxies/blob/master/proxies/all.txt) | [RAW](https://raw.githubusercontent.com/saschazesiger/Free-Proxies/master/proxies/all.txt)
-New* | ```11442``` | [GitHub](https://github.com/saschazesiger/Free-Proxies/blob/master/proxies/new.txt) | [RAW](https://raw.githubusercontent.com/saschazesiger/Free-Proxies/master/proxies/new.txt) 
-Premium** | ```362``` | [GitHub](https://github.com/saschazesiger/Free-Proxies/blob/master/proxies/premium.txt) | [RAW](https://raw.githubusercontent.com/saschazesiger/Free-Proxies/master/proxies/premium.txt)
-**Working (CSV)** | ```3183``` | [GitHub](https://github.com/saschazesiger/Free-Proxies/blob/master/proxies/working.csv) | [RAW](https://raw.githubusercontent.com/saschazesiger/Free-Proxies/master/proxies/working.csv)
-**Working (TXT)** | ```3183``` | [GitHub](https://github.com/saschazesiger/Free-Proxies/blob/master/proxies/working.txt) | [RAW](https://raw.githubusercontent.com/saschazesiger/Free-Proxies/master/proxies/working.txt)
-HTTP/HTTPS | ```2661``` | [GitHub](https://github.com/saschazesiger/Free-Proxies/blob/master/proxies/http.txt) | [RAW](https://raw.githubusercontent.com/saschazesiger/Free-Proxies/master/proxies/http.txt)
-SOCKS4 | ```357``` | [GitHub](https://github.com/saschazesiger/Free-Proxies/blob/master/proxies/socks4.txt) | [RAW](https://raw.githubusercontent.com/saschazesiger/Free-Proxies/master/proxies/socks4.txt)
-SOCKS5 | ```165``` | [GitHub](https://github.com/saschazesiger/Free-Proxies/blob/master/proxies/socks5.txt) | [RAW](https://raw.githubusercontent.com/saschazesiger/Free-Proxies/master/proxies/socks5.txt) |
+All available proxies | ```30559``` | [GitHub](https://github.com/saschazesiger/Free-Proxies/blob/master/proxies/raw.txt) | [RAW](https://raw.githubusercontent.com/saschazesiger/Free-Proxies/master/proxies/raw.txt)
+Unique Proxies | ```12941``` | [GitHub](https://github.com/saschazesiger/Free-Proxies/blob/master/proxies/all.txt) | [RAW](https://raw.githubusercontent.com/saschazesiger/Free-Proxies/master/proxies/all.txt)
+New* | ```10739``` | [GitHub](https://github.com/saschazesiger/Free-Proxies/blob/master/proxies/new.txt) | [RAW](https://raw.githubusercontent.com/saschazesiger/Free-Proxies/master/proxies/new.txt) 
+Premium** | ```1628``` | [GitHub](https://github.com/saschazesiger/Free-Proxies/blob/master/proxies/premium.txt) | [RAW](https://raw.githubusercontent.com/saschazesiger/Free-Proxies/master/proxies/premium.txt)
+**Working (CSV)** | ```3477``` | [GitHub](https://github.com/saschazesiger/Free-Proxies/blob/master/proxies/working.csv) | [RAW](https://raw.githubusercontent.com/saschazesiger/Free-Proxies/master/proxies/working.csv)
+**Working (TXT)** | ```3477``` | [GitHub](https://github.com/saschazesiger/Free-Proxies/blob/master/proxies/working.txt) | [RAW](https://raw.githubusercontent.com/saschazesiger/Free-Proxies/master/proxies/working.txt)
+HTTP/HTTPS | ```3067``` | [GitHub](https://github.com/saschazesiger/Free-Proxies/blob/master/proxies/http.txt) | [RAW](https://raw.githubusercontent.com/saschazesiger/Free-Proxies/master/proxies/http.txt)
+SOCKS4 | ```286``` | [GitHub](https://github.com/saschazesiger/Free-Proxies/blob/master/proxies/socks4.txt) | [RAW](https://raw.githubusercontent.com/saschazesiger/Free-Proxies/master/proxies/socks4.txt)
+SOCKS5 | ```124``` | [GitHub](https://github.com/saschazesiger/Free-Proxies/blob/master/proxies/socks5.txt) | [RAW](https://raw.githubusercontent.com/saschazesiger/Free-Proxies/master/proxies/socks5.txt) |
 
 **proxy was not in previous workflow*\
 ***continuously online for at least 2 workflows (1 hour)*
@@ -40,8 +40,8 @@ SOCKS5 | ```165``` | [GitHub](https://github.com/saschazesiger/Free-Proxies/blob
 
 Type | Number | Link | File
 --- | --- | --- | ---
-Filtered* | ```45``` | [GitHub](https://github.com/saschazesiger/Free-Proxies/blob/master/proxies/excluded.csv) | [RAW](https://raw.githubusercontent.com/saschazesiger/Free-Proxies/master/proxies/excluded.csv)
-Misconfigured** | ```96``` | [GitHub](https://github.com/saschazesiger/Free-Proxies/blob/master/proxies/misconfigured.csv) | [RAW](https://raw.githubusercontent.com/saschazesiger/Free-Proxies/master/proxies/misconfigured.csv) |
+Filtered* | ```39``` | [GitHub](https://github.com/saschazesiger/Free-Proxies/blob/master/proxies/excluded.csv) | [RAW](https://raw.githubusercontent.com/saschazesiger/Free-Proxies/master/proxies/excluded.csv)
+Misconfigured** | ```99``` | [GitHub](https://github.com/saschazesiger/Free-Proxies/blob/master/proxies/misconfigured.csv) | [RAW](https://raw.githubusercontent.com/saschazesiger/Free-Proxies/master/proxies/misconfigured.csv) |
 
 **The proxy returned modified HTML. This can be ads, maleware etc.* \
 ***Proxy returned a wrong HTTP Status Code*
@@ -52,11 +52,11 @@ Misconfigured** | ```96``` | [GitHub](https://github.com/saschazesiger/Free-Prox
 
 Speed | Number | Link | File
 --- | --- | --- | ---
-Ultra Fast (<0.5s Ping) | ```2231``` | [GitHub](https://github.com/saschazesiger/Free-Proxies/blob/master/proxies/ultrafast.txt) | [RAW](https://raw.githubusercontent.com/saschazesiger/Free-Proxies/master/proxies/ultrafast.txt)
-Fast (<1s Ping) | ```207``` | [GitHub](https://github.com/saschazesiger/Free-Proxies/blob/master/proxies/fast.txt) | [RAW](https://raw.githubusercontent.com/saschazesiger/Free-Proxies/master/proxies/fast.txt)
-Medium (<3s Ping) | ```292``` | [GitHub](https://github.com/saschazesiger/Free-Proxies/blob/master/proxies/medium.txt) | [RAW](https://raw.githubusercontent.com/saschazesiger/Free-Proxies/master/proxies/medium.txt)
-Slow (<7s Ping) | ```225``` | [GitHub](https://github.com/saschazesiger/Free-Proxies/blob/master/proxies/slow.txt) | [RAW](https://raw.githubusercontent.com/saschazesiger/Free-Proxies/master/proxies/slow.txt)
-Ultra Slow (7s+ Ping) | ```228``` | [GitHub](https://github.com/saschazesiger/Free-Proxies/blob/master/proxies/ultraslow.txt) | [RAW](https://raw.githubusercontent.com/saschazesiger/Free-Proxies/master/proxies/ultraslow.txt)
+Ultra Fast (<0.5s Ping) | ```2548``` | [GitHub](https://github.com/saschazesiger/Free-Proxies/blob/master/proxies/ultrafast.txt) | [RAW](https://raw.githubusercontent.com/saschazesiger/Free-Proxies/master/proxies/ultrafast.txt)
+Fast (<1s Ping) | ```195``` | [GitHub](https://github.com/saschazesiger/Free-Proxies/blob/master/proxies/fast.txt) | [RAW](https://raw.githubusercontent.com/saschazesiger/Free-Proxies/master/proxies/fast.txt)
+Medium (<3s Ping) | ```308``` | [GitHub](https://github.com/saschazesiger/Free-Proxies/blob/master/proxies/medium.txt) | [RAW](https://raw.githubusercontent.com/saschazesiger/Free-Proxies/master/proxies/medium.txt)
+Slow (<7s Ping) | ```219``` | [GitHub](https://github.com/saschazesiger/Free-Proxies/blob/master/proxies/slow.txt) | [RAW](https://raw.githubusercontent.com/saschazesiger/Free-Proxies/master/proxies/slow.txt)
+Ultra Slow (7s+ Ping) | ```207``` | [GitHub](https://github.com/saschazesiger/Free-Proxies/blob/master/proxies/ultraslow.txt) | [RAW](https://raw.githubusercontent.com/saschazesiger/Free-Proxies/master/proxies/ultraslow.txt)
 
 ------------------------------------------------------------------
 
@@ -64,23 +64,23 @@ Ultra Slow (7s+ Ping) | ```228``` | [GitHub](https://github.com/saschazesiger/Fr
 | Website  | Number of Proxies fetched |
 | ------------- |:-------------:|
 |advanced.name|0
-api.proxyscrape.com|1053
+api.proxyscrape.com|934
 free-proxy-list.com|250
 free-proxy-list.net|1200
 freeproxy.world|1300
 github-RX4096|204
-github-ShiftyTR|529
+github-ShiftyTR|528
 github-TheSpeedX|5206
 github-Volodichev|1616
 github-almroot|24
 github-clarketm|400
 github-hendrikbgr|51
-github-hookzof|172
+github-hookzof|140
 github-jetkai|7247
-github-manuGMG|537
+github-manuGMG|534
 github-mertguvencli|283
-github-mmpx12|3454
-github-monosans|883
+github-mmpx12|3468
+github-monosans|698
 github-roosterkid|1020
 github-ryanhaticus|0
 github-sunny9577|898
