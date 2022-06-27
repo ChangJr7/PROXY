@@ -1,21 +1,21 @@
 ;advanced.name;0
-api.proxyscrape.com;983
+api.proxyscrape.com;880
 free-proxy-list.com;250
 free-proxy-list.net;1200
 freeproxy.world;1300
 github-RX4096;204
-github-ShiftyTR;735
+github-ShiftyTR;742
 github-TheSpeedX;5053
 github-Volodichev;1882
 github-almroot;17
 github-clarketm;400
 github-hendrikbgr;51
-github-hookzof;209
+github-hookzof;128
 github-jetkai;9085
 github-manuGMG;585
 github-mertguvencli;204
-github-mmpx12;3599
-github-monosans;584
+github-mmpx12;3628
+github-monosans;622
 github-roosterkid;956
 github-ryanhaticus;0
 github-sunny9577;907
@@ -27,5 +27,6 @@ premiumproxy.net;15
 proxy-list.download;2096
 proxy-list.org;0
 proxydb.net;60
+proxyscan.io;739
 us-proxy.org;400
-All: 32771, Without Duplicates: 13974
+All: 33400, Without Duplicates: 13925
